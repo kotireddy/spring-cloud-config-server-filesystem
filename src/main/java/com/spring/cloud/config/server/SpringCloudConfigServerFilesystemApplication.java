@@ -10,6 +10,5 @@ public class SpringCloudConfigServerFilesystemApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SpringCloudConfigServerFilesystemApplication.class, args);
-
 	}
 }
